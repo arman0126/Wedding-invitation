@@ -75,7 +75,7 @@ html {
 
 .hero .hero-foot {
   height: 50px;
-  background: rgb(9, 0, 0);
+  background: rgb(255, 255, 255);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.082);
 }
 
@@ -681,3 +681,4 @@ ul#hitungmundur li p {
 	color: #B08F8E;
 	font-size: 16px;
 }
+
